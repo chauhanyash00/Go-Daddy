@@ -18,32 +18,34 @@ function Navbar() {
           Domains
           </a>
           <ul className="dropdown-menu dw-content">
-              <div className='tw-h-96 tw-w-screen'>
-              <ul className='dropdown-item'>
-                  <li>FINS A DOMAIN</li>
+              <div className='tw-h-96 tw-w-screen tw-container tw-flex'>
+              <ul className='tw-ml-20'>
+                  <li>FIND A DOMAIN</li>
+                  <li className='tw-pt-20'><span><span className=''><i class="fa-solid fa-magnifying-glass"></i></span>Serch for Domain Names</span></li>
                   <li></li>
                   <li></li>
                   <li></li>
               </ul>
-              <ul className='dropdown-item'>
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                  <li></li>
-              </ul>
-              <ul className='dropdown-item'>
-                  <li></li>
+              <ul className='tw-ml-20'>
+                  <li>AUCTION</li>
                   <li></li>
                   <li></li>
                   <li></li>
               </ul>
-              <ul className='dropdown-item'>
+              <ul className='tw-ml-20'>
+                  <li>DOMAIN</li>
                   <li></li>
+                  <li></li>
+                  <li></li>
+              </ul>
+              <ul className='tw-ml-20'>
+                  <li>IMAGE</li>
                   <li></li>
               </ul>
               </div>
           </ul>
         </li>
+        
         <li className="nav-item dropdown">
           <a className="nav-link tw-ml-5 dropdown-toggle hover:tw-bg-gray-600 tw-rounded" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Websites and Hosting
