@@ -3,7 +3,44 @@
   }
 
 
-  .dw-content{
-    margin-left: -13.9rem;
-    margin-top: 1rem !important; 
+  .margin1{
+    margin-left: -20.2rem;
+    margin-top: 1rem !important;
+  }
+
+  .margin2{
+    margin-left: -27.6rem;
+    margin-top: 1rem !important;
+  }
+
+  .margin3{
+    margin-left: -45.6rem;
+    margin-top: 1rem !important;
+  }
+
+  .margin4{
+    margin-left: -52.6rem;
+    margin-top: 1rem !important;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .margin1{
+      margin-left: -17.4rem;
+      margin-top: 2.9rem !important;
+    }
+  
+    .margin2{
+      margin-left: -24.7rem;
+      margin-top: 2.9rem !important;
+    }
+  
+    .margin3{
+      margin-left: -42.9rem;
+      margin-top: 2.9rem !important;
+    }
+  
+    .margin4{
+      margin-left: -49.8rem;
+      margin-top: 2.9rem !important;
+    }
   }

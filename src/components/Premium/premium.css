@@ -1,0 +1,10 @@
+.width1{
+    width: 100%;
+}       
+
+@media screen and (max-width: 1025px) {
+}
+
+.ImageBox{
+    margin-top: 23rem;
+}   

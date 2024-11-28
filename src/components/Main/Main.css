@@ -1,0 +1,91 @@
+.Main{
+    width: 180vh;
+    height: 35em;
+}
+
+.height{
+    height: 35rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .Main{
+        width: 150vh;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .Main{
+        width: 100% ;
+        padding-left: 5%;
+        padding-right: 5%;
+        border-radius: 2rem;
+    }
+}
+
+.New{
+    margin-top: -32em;
+    margin-left: 2em;
+}
+
+@media screen and (max-width:769px) {
+    .New{
+        margin-left: 4rem;
+        border-radius: 50%;
+    }
+}
+
+.box{
+    font-size: 2.4rem;
+    line-height: 1.2;
+    font-weight: bolder;
+}
+
+.New-box{
+    width: 25%;
+}
+
+@media screen and (max-width: 1025px) {
+    .box{
+        font-size: 1.5rem;
+        line-height: 1.1;
+    }
+    .box-content{
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (max-width: 768px ) {
+    .New-box{
+        width: 100%;
+    }
+    .height{
+        height: 18rem;
+    }
+    .box-content{
+        margin-top: 2rem;
+    }
+    .box{
+        font-size: 1.5rem;
+        line-height: 1.1;
+    }
+    
+    .f-main{
+        display: block;
+    }
+    .f2-main{
+        width: 100%;
+        margin-left: 0rem;
+    }
+    .f-text{
+        font-size: 3rem;
+        width: 20rem;
+    }
+}
+
+
+@media screen and (max-width: 769px) {
+    .New-box{
+        width: 100%;
+        padding-right: 5%;
+    }
+}

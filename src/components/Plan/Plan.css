@@ -1,0 +1,39 @@
+
+
+    .main-box{
+        width: 100%;
+    }
+
+    .img{
+        padding: 5rem;
+    }
+    .main-content{
+        font-weight: 500;
+    }
+
+    @media screen and (max-width: 1025px){
+        .img{
+            padding: 4rem;
+        }
+        .main-content{
+            font-size: 0.9rem;
+        }
+    }
+
+    @media screen and (max-width: 768px){
+        .img{
+            padding: 2rem;
+        }
+        .main-content{
+            font-size: 0.9rem;
+        }
+    }
+
+    @media screen and (max-width: 426px){
+        .main-box{
+            display: block;
+        }
+        .heading{
+            font-size: 2rem;
+        }
+    }
