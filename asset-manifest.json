@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Go-Daddy/static/css/main.2f3bfd5d.css",
+    "main.js": "/Go-Daddy/static/js/main.688bfc07.js",
+    "static/js/453.807b4194.chunk.js": "/Go-Daddy/static/js/453.807b4194.chunk.js",
+    "static/media/main.jpg": "/Go-Daddy/static/media/main.06f6913f3fd222459f31.jpg",
+    "static/media/img3.jpg": "/Go-Daddy/static/media/img3.82aace44ffe390ef5948.jpg",
+    "static/media/img2.jpg": "/Go-Daddy/static/media/img2.8707db73545227acd0f2.jpg",
+    "static/media/img1.jpg": "/Go-Daddy/static/media/img1.ae5008d14c0f1f3c55f2.jpg",
+    "static/media/go-removebg-preview.png": "/Go-Daddy/static/media/go-removebg-preview.7726874ee127693c0458.png",
+    "static/media/Store.svg": "/Go-Daddy/static/media/Store.c271b21019144a1ad5832159efada564.svg",
+    "static/media/Air logo.svg": "/Go-Daddy/static/media/Air logo.0e3518b8d94797935ba6e77f8fc8934d.svg",
+    "index.html": "/Go-Daddy/index.html",
+    "main.2f3bfd5d.css.map": "/Go-Daddy/static/css/main.2f3bfd5d.css.map",
+    "main.688bfc07.js.map": "/Go-Daddy/static/js/main.688bfc07.js.map",
+    "453.807b4194.chunk.js.map": "/Go-Daddy/static/js/453.807b4194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3bfd5d.css",
+    "static/js/main.688bfc07.js"
+  ]
+}
